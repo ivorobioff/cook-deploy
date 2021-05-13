@@ -1,7 +1,7 @@
 #!/bin/bash
 
 APP_NAME="cook-app"
-APP_VERSION="1.0.0"
+APP_VERSION="1.0.1"
 TMP_DIR="./tmp"
 DOCKER_IMAGE="ivorobioff/$APP_NAME:$APP_VERSION"
 
