@@ -1,7 +1,7 @@
 #!/bin/bash
 
 APP_VERSION="1.0.1"
-WEB_VERSION="1.0.3"
+WEB_VERSION="1.1.0"
 
 mkdir -p ~/.cook/db
 
